@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">bangun ruang</string>
+    <string name="hitung_volume_balok">Hitung Volume Balok</string>
+    <string name="hitung_volume_kubus">Hitung Volume Kubus</string>
+    <string name="hitung_volume_tabung">Hitung Volume Tabung</string>
+    <string name="menghitung_volume_balok">Menghitung Volume Balok</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hapus">Hapus</string>
+    <string name="hasil">Hasil</string>
+    <string name="menghitung_volume_kubus">Menghitung Volume Kubus</string>
+    <string name="sisi_kubus">Sisi Kubus</string>
+    <string name="hitung_">Hitung</string>
+    <string name="hapus_">Hapus</string>
+    <string name="hasil_">Hasil</string>
+    <string name="jari_jari">Jari-Jari</string>
+    <string name="tinggi_">Tinggi</string>
+    <string name="menghitung_volume_tabung">Menghitung Volume Tabung</string>
+</resources>

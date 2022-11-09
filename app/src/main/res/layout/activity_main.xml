@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btn_move_volume_balok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hitung_volume_balok"
+        />
+1    <Button
+        android:id="@+id/btn_move_volume_kubus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hitung_volume_kubus"
+        />
+    <Button
+        android:id="@+id/btn_move_volume_tabung"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hitung_volume_tabung"
+        />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="249dp"
+        android:layout_marginTop="50dp"
+        app:srcCompat="@drawable/sekar" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="===============================\n Sekar Melati\n 20040176\n 5H\n ==============================="
+        android:textColor="@color/black"
+        android:layout_marginTop="50dp"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
